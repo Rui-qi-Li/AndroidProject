@@ -28,4 +28,7 @@ will lose the game and the restart hints will show on the screen – “Game Ove
    java.util.ArrayList
    
    
+Please into ./app/src/java/com/example/android/snakenew check 3 java files -- SnakeView.java, MainActivity.java, SecondActivity.java
+   
+   
    
